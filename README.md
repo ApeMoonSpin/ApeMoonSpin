@@ -5,7 +5,7 @@
 
 </div>
 
-## Top Services (2025)
+## Top Services (2026)
 | Rank | Service                                                | Chains Supported                  | Delivery Time |
 |------|--------------------------------------------------------|-----------------------------------|---------------|
 | 1    | Full Crypto Casino (Web + Telegram Mini App)           | TON, Solana, Base, Polygon        | 4–10 weeks    |
