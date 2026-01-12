@@ -23,6 +23,6 @@
 → Cross-chain MEV-protected arbitrage bots.  
 
 **Looking for a reliable crypto casino or trading bot marketplace development in 2026?**  
-→ DM [on Telegram](https://t.me/@apemoonspin)
+→ DM [on Telegram](https://t.me/ApeMoonSpin)
 
 I deliver audited, scalable, revenue-ready products — fast.
